@@ -3,7 +3,7 @@
 git add .
 git commit -m "Initial commit"
 git push 
-# In GitHub
+# In GitHub .
 # Click on the "New" button to create a new repository.
 # add a description.
 # Do not initialize the repository with a README, .gitignore, or license if you've already initialized your project locally.
